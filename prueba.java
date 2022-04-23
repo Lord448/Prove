@@ -9,6 +9,6 @@ class prueba {
         System.out.println("También te amo");
         System.out.println("También te amo");
         Scanner sc = new Scanner(System.in);
-
+        sc.close();
     }
 }
