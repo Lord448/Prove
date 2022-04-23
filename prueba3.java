@@ -1,6 +1,6 @@
-public class prueba2 {
+public class prueba3 {
     public static void main(String[] args) {
-        // Momento prueba
+        // 3
         System.out.println("También te amo");
     }
 }

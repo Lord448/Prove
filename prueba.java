@@ -10,5 +10,6 @@ class prueba {
         System.out.println("También te amo");
         Scanner sc = new Scanner(System.in);
         sc.close();
+        System.out.println("También te amo");
     }
 }
